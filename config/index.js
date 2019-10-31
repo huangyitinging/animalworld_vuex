@@ -43,7 +43,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/animalworld_vue/dist/',
+    assetsPublicPath: '/animalworld_vuex/dist/',
 
     /**
      * Source Maps
